@@ -1,4 +1,4 @@
-In this project, let's build a **Show/Hide App** by applying the concepts we have learned till now.
+In this project, I build a **Show/Hide App**.
 
 ### Refer to the image below:
 
@@ -18,51 +18,32 @@ In this project, let's build a **Show/Hide App** by applying the concepts we hav
 
 </details>
 
-### Set Up Instructions
-
-<details>
-<summary>Click to view</summary>
-
-- Download dependencies by running `npm install`
-- Start up the app using `npm start`
-</details>
-
 ### Completion Instructions
 
 <details>
-<summary>Functionality to be added</summary>
+<summary>Functionalities added</summary>
 <br/>
 
-The app must have the following functionalities
+The app has the following functionalities
 
-- The **Firstname** and **Lastname** should be hidden initially
+- The **Firstname** and **Lastname** is hidden initially
 - When the **Show/Hide Firstname** button is clicked,
-  - If the Firstname is hidden, then it should be displayed
-  - If the Firstname is displayed, then it should be hidden
+  - If the Firstname is hidden, then it is displayed
+  - If the Firstname is displayed, then it is hidden
 - When the **Show/Hide Lastname** button is clicked,
-  - If the Lastname is hidden, then it should be displayed
-  - If the Lastname is displayed, then it should be hidden
+  - If the Lastname is hidden, then it is displayed
+  - If the Lastname is displayed, then it is hidden
 
 </details>
 
 <details>
-<summary>Implementation Files</summary>
+<summary>Implemented Files</summary>
 <br/>
 
-Use these files to complete the implementation:
+Used these files to complete the implementation:
 
 - `src/components/ShowHide/index.js`
 - `src/components/ShowHide/index.css`
-</details>
-
-### Important Note
-
-<details>
-<summary>Click to view</summary>
-<br/>
-**The following instructions are required for the tests to pass**
-
-- Achieve the given layout using only Conditional Rendering
 </details>
 
 ### Resources
@@ -86,10 +67,3 @@ Use these files to complete the implementation:
 - Roboto
 
 </details>
-
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
